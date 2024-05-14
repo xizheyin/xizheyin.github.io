@@ -2,20 +2,19 @@ title: Xizhe's Personal Website
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://xizheyin.gitee.io/xizheyin.gitee.io
+url: https://xizheyin.github.io/
 
 # Owner/author information
 owner:
   name: Xizhe Yin
   avatar: yxz.jpg
-#bio:
   email: xizheyin@smail.nju.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: xxx
+  # twitter: xxx
   # facebook: caihanlin2002
   github: xizheyin
   # linkedin: hanlincai
-  scholar: xxx
+  # scholar: xxx
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
