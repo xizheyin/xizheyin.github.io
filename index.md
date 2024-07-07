@@ -31,7 +31,7 @@ I am Xizhe Yin, a Ph.D. student in [the Department of Computer Science and Techn
 
 ## Publications
 
-- FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation(ISSTA 2024, **<font color='red'>CCF-A</font>**)
+- FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation. (ISSTA 2024, **<font color='red'>CCF-A</font>**)
 <br>
 
 ---
