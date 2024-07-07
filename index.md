@@ -31,7 +31,7 @@ I am Xizhe Yin, a Ph.D. student in [the Department of Computer Science and Techn
 
 ## Publications
 
-- FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation(ISSTA 2024, **CCF-A**)
+- FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation(ISSTA 2024, **<font color='red'>CCF-A</font>**)
 <br>
 
 ---
@@ -56,7 +56,9 @@ I am Xizhe Yin, a Ph.D. student in [the Department of Computer Science and Techn
 - 2021-2022 **Sun Zhongxiu Scholarship<font color='red'>[10/192]</font>**
 - 2020-2021 **National Scholarship for Students(3rd)**
 - 2019-2020 **National Scholarship for Students(2nd)**
+<br>
 
+---
 
 ## News and Updates
-- July 2024：Our work FRIES has been accepted to ISSTA 2024. See you in Vienna!
+- July 2024：Our work *FRIES* has been accepted to ISSTA 2024. See you in Vienna!
