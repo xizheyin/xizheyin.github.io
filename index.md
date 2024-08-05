@@ -8,14 +8,15 @@ layout: page
 
 Here is **Xizhe Yin (Chester, 尹熙喆)**.
 
-I am Xizhe Yin, a Ph.D. student in [the Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing, program analysis, and debugging. I'm a member of [open-rust-initiative](https://github.com/open-rust-initiative), and contribute to the security of the Rust ecosystem through [Crates-Pro](https://github.com/open-rust-initiative/crates-pro). 
+I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing, program analysis, and debugging. I'm a member of [open-rust-initiative](https://github.com/open-rust-initiative), and contribute to the security of the Rust ecosystem through [Crates-Pro](https://github.com/crates-pro/crates-pro). 
 <br>
 
 ## Education Background
 
 **<font color='red'>[Highlight]</font> I am currently pursuing a Ph.D. degree in Software Engineering and welcome any opportunities for academic exchanges. Please feel free to contact me at [this email address](xizheyin@smail.nju.edu.cn)!**
 
-- **Sep 2019 - June 2023:** Nanjing University (B.CS)
+- Sep 2019 - June 2023: Bachelor in Computer Science, Nanjing University
+- Sep 2023 - Present: Ph.D. in Software Engineering, Nanjing University
 <br>
 
 ---
@@ -31,7 +32,8 @@ I am Xizhe Yin, a Ph.D. student in [the Department of Computer Science and Techn
 
 ## Publications
 
-- FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation. (ISSTA 2024, **<font color='red'>CCF-A</font>**)
+- FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation. **Xizhe Yin**, Yang Feng, Qingkai Shi, Zixi Liu, Hongwang Liu, and Baowen Xu. 2024.
+ (ISSTA 2024, **<font color='red'>CCF-A</font>**)
 <br>
 
 ---
@@ -49,13 +51,13 @@ I am Xizhe Yin, a Ph.D. student in [the Department of Computer Science and Techn
 ---
 
 ## Honor
-- 2023-2024 **Scholarships for Doctoral Students at Nanjing University**
-- 2023-2024 **President's Special Scholarship for PhD Students**
-- 2022-2023 **National Scholarship (Undergraduate)<font color='red'>[3/192]</font>**
-- 2022-2023 **Samsung Scholarship<font color='red'>[1/192]</font>**
-- 2021-2022 **Sun Zhongxiu Scholarship<font color='red'>[10/192]</font>**
-- 2020-2021 **National Scholarship for Students(3rd)**
-- 2019-2020 **National Scholarship for Students(2nd)**
+- 2023-2024 **Scholarships for Doctoral Students at Nanjing University[博士生学业奖学金]**
+- 2023-2024 **President's Special Scholarship for PhD Students[南京大学博士生校长特别奖学金]**
+- 2022-2023 **National Scholarship (Undergraduate)[*本科生国家奖学金*]<font color='red'>[3/192]</font>**
+- 2022-2023 **Samsung Scholarship[三星奖学金]<font color='red'>[1/192]</font>**
+- 2021-2022 **Sun Zhongxiu Scholarship[孙忠秀奖学金]<font color='red'>[10/192]</font>**
+- 2020-2021 **National Scholarship for Students(3rd)[人民奖学金]**
+- 2019-2020 **National Scholarship for Students(2nd)[人民奖学金]**
 <br>
 
 ---
