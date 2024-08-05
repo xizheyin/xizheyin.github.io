@@ -51,13 +51,13 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 ---
 
 ## Honor
-- 2023-2024 **Scholarships for Doctoral Students at Nanjing University[博士生学业奖学金]**
-- 2023-2024 **President's Special Scholarship for PhD Students[南京大学博士生校长特别奖学金]**
-- 2022-2023 **National Scholarship (Undergraduate)[*本科生国家奖学金*]<font color='red'>[3/192]</font>**
-- 2022-2023 **Samsung Scholarship[三星奖学金]<font color='red'>[1/192]</font>**
-- 2021-2022 **Sun Zhongxiu Scholarship[孙忠秀奖学金]<font color='red'>[10/192]</font>**
-- 2020-2021 **National Scholarship for Students(3rd)[人民奖学金]**
-- 2019-2020 **National Scholarship for Students(2nd)[人民奖学金]**
+- 2023-2024 **Scholarships for Doctoral Students at Nanjing University [博士生学业奖学金]**
+- 2023-2024 **President's Special Scholarship for PhD Students [南京大学博士生校长特别奖学金]**
+- 2022-2023 **National Scholarship (Undergraduate) [*本科生国家奖学金*] <font color='red'>[3/192]</font>**
+- 2022-2023 **Samsung Scholarship [三星奖学金] <font color='red'>[1/192]</font>**
+- 2021-2022 **Sun Zhongxiu Scholarship [孙忠秀奖学金] <font color='red'>[10/192]</font>**
+- 2020-2021 **National Scholarship for Students(3rd) [人民奖学金]**
+- 2019-2020 **National Scholarship for Students(2nd) [人民奖学金]**
 <br>
 
 ---
