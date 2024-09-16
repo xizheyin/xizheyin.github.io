@@ -32,15 +32,18 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 
 ## Publications
 
-- FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation. **Xizhe Yin**, Yang Feng, Qingkai Shi, Zixi Liu, Hongwang Liu, and Baowen Xu. 2024.
- (ISSTA 2024, **<font color='red'>CCF-A</font>**)
+- [FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation.](https://dl.acm.org/doi/abs/10.1145/3650212.3680348)
+
+  **Xizhe Yin**, Yang Feng, Qingkai Shi, Zixi Liu, Hongwang Liu, and Baowen Xu. 2024.
+  
+  (ISSTA 2024, **<font color='red'>CCF-A</font>**) 
 <br>
 
 ---
 
 
 ## Teaching Experience
-
+- Fall 2024: Compiler Principles, Teaching Assistant
 - Fall 2023: Compiler Principles, Teaching Assistant
 - Spring 2023: Operating Systems, Teaching Assistant
 - Fall 2022: Compiler Principles, Teaching Assistant
