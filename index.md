@@ -36,7 +36,7 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 
   **Xizhe Yin**, Yang Feng, Qingkai Shi, Zixi Liu, Hongwang Liu, and Baowen Xu. 2024.
   
-  (ISSTA 2024, **<font color='red'>CCF-A</font>**) 
+  The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024, **<font color='red'>CCF-A</font>**) 
 <br>
 
 ---
