@@ -32,7 +32,7 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 
 ## Publications
 
-- **FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation.**  
+- **[FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation.](https://dl.acm.org/doi/abs/10.1145/3650212.3680348)**  
   **Xizhe Yin**, Yang Feng, Qingkai Shi, Zixi Liu, Hongwang Liu, and Baowen Xu.  
   The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024, **<font color='red'>CCF-A</font>**) 
 <br>
