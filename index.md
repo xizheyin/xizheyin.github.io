@@ -45,7 +45,7 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 - Fall 2023: Compiler Principles, Teaching Assistant
 - Spring 2023: Operating Systems, Teaching Assistant
 - Fall 2022: Compiler Principles, Teaching Assistant
-- Spring 2022: [Operating Systems](https://changanyyy.gitbook.io/oslab/), Teaching Assistant
+- Spring 2022: [Operating Systems](https://changanyyy.gitbook.io/oslab/), Teaching Assistant (Course ratings increased from 4.81 and 4.68 to 4.91.)
 <br>
 
 
