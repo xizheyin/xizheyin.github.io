@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xizhe Yin (尹熙喆)**.
 
-I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing, program analysis, and debugging. I'm a member of [open-rust-initiative](https://github.com/open-rust-initiative), and contribute to the security of the Rust ecosystem through [Crates-Pro](https://github.com/crates-pro/crates-pro). 
+I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing and program analysis for Rust programming language. I'm a member of [open-rust-initiative](https://github.com/open-rust-initiative), and contribute to the security of the Rust ecosystem through [Crates-Pro](https://github.com/crates-pro/crates-pro). 
 <br>
 
 ## Education Background
@@ -25,7 +25,7 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 
 - Rust Programming Language
 - Software Testing
-- Software Analysis
+- Software Analysis (Pointer Analysis)
 <br>
 
 ---
