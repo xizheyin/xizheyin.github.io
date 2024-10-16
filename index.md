@@ -6,7 +6,7 @@ layout: page
 
 <!-- <img src="yxz.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Xizhe Yin (Chester, 尹熙喆)**.
+Here is **Xizhe Yin (尹熙喆)**.
 
 I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing, program analysis, and debugging. I'm a member of [open-rust-initiative](https://github.com/open-rust-initiative), and contribute to the security of the Rust ecosystem through [Crates-Pro](https://github.com/crates-pro/crates-pro). 
 <br>
@@ -52,9 +52,12 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 ---
 
 ## Honor
+
+- 2024-2025 **Xiaomi Special Scholarship [小米特等奖学金]**  
+  *Awarded to only 10 students across the entire university.*
 - 2023-2024 **Scholarships for Doctoral Students at Nanjing University [博士生学业奖学金]**
 - 2023-2024 **President's Special Scholarship for PhD Students [南京大学博士生校长特别奖学金]**
-- 2022-2023 **National Scholarship (Undergraduate) [*本科生国家奖学金*] <font color='red'>[3/192]</font>**
+- 2022-2023 **National Scholarship [*国家奖学金*] <font color='red'>[3/192]</font>**
 - 2022-2023 **Samsung Scholarship [三星奖学金] <font color='red'>[1/192]</font>**
 - 2021-2022 **Sun Zhongxiu Scholarship [孙忠秀奖学金] <font color='red'>[10/192]</font>**
 - 2020-2021 **National Scholarship for Students(3rd) [人民奖学金]**
@@ -64,4 +67,4 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 ---
 
 ## News and Updates
-- July 2024：Our work *FRIES* has been accepted to ISSTA 2024. See you in Vienna!
+- July 2024：Our work *FRIES* has been accepted to ISSTA 2024.
