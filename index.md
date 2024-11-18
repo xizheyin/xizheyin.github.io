@@ -8,8 +8,10 @@ layout: page
 
 Here is **Xizhe Yin (尹熙喆)**.
 
-I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing and program analysis for Rust programming language. I'm a member of [open-rust-initiative](https://github.com/open-rust-initiative), and contribute to the security of the Rust ecosystem through [Crates-Pro](https://github.com/crates-pro/crates-pro). 
+I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing and program analysis for Rust programming language. I am the lead maintainer of the *[Crates-Pro](https://github.com/crates-pro)*, a project dedicated to enhancing the security of the Rust ecosystem. Our mission is to equip Rust developers with essential insights and recommendations on crate usage, ensuring that their projects remain both safe and efficient.
+
 <br>
+
 
 ## Education Background
 
@@ -24,8 +26,9 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 ## Research Interests
 
 - Rust Programming Language
-- Software Testing
 - Software Analysis (Pointer Analysis)
+- Software Testing
+
 <br>
 
 ---
@@ -55,8 +58,9 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 
 - 2024-2025 **Xiaomi Special Scholarship [小米特等奖学金]**  
   *Awarded to only 10 students across the entire university.*
-- 2023-2024 **Scholarships for Doctoral Students at Nanjing University [博士生学业奖学金]**
+- 2024-2025 **Scholarships for Doctoral Students at Nanjing University [博士生学业奖学金]**
 - 2023-2024 **President's Special Scholarship for PhD Students [南京大学博士生校长特别奖学金]**
+- 2023-2024 **Scholarships for Doctoral Students at Nanjing University [博士生学业奖学金]**
 - 2022-2023 **National Scholarship [*国家奖学金*] <font color='red'>[3/192]</font>**
 - 2022-2023 **Samsung Scholarship [三星奖学金] <font color='red'>[1/192]</font>**
 - 2021-2022 **Sun Zhongxiu Scholarship [孙忠秀奖学金] <font color='red'>[10/192]</font>**
