@@ -20,14 +20,14 @@ a project dedicated to enhancing the security and usability of software in the R
 
 I'm also an active contributor to several open-source projects. 
 I've contributed to enhancing compiler diagnostics, addressing bootstrap or ice issues,
-and implementing various improvements to make rustc more developer-friendly and approachable.
+and implementing [various improvements](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Axizheyin+) to make rustc more developer-friendly and approachable.
 The open source project I am contributing to including:
 
 - [crates-pro](https://github.com/crates-pro)
-- [rust-lang/rust](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Axizheyin+)
-- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide/pulls?q=is%3Apr+author%3Axizheyin+)
-- [rust-lang/rustc_codegen_c](https://github.com/rust-lang/rustc_codegen_c/pulls?q=is%3Apr+author%3Axizheyin+)
-- [facebook/buck2](https://github.com/facebook/buck2/pulls?q=is%3Apr+author%3Axizheyin+)
+- [rust-lang/rust](https://github.com/rust-lang/rust/)
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide/)
+- [rust-lang/rustc_codegen_c](https://github.com/rust-lang/rustc_codegen_c/)
+- [facebook/buck2](https://github.com/facebook/buck2/)
 <br>
 
 ## Education Background
