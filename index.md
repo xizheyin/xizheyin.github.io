@@ -52,6 +52,7 @@ The open source project I am contributing to including:
 <br>
 
 ## Teaching Experience
+- Spring 2025: Rust Programming Language, Teaching Assistant
 - Fall 2024: Compiler Principles, Teaching Assistant
 - Fall 2023: Compiler Principles, Teaching Assistant
 - Spring 2023: Operating Systems, Teaching Assistant
