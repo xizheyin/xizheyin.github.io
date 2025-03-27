@@ -6,7 +6,7 @@ layout: page
 
 <!-- <img src="yxz.jpg" class="floatpic" width="360" height="480"> -->
 
-**Xizhe Yin (尹熙喆)** - Ph.D. Researcher in Software Engineering
+**Xizhe Yin** - Ph.D. Researcher in Software Engineering
 
 I am a Ph.D. student in the [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm)
 at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm),
