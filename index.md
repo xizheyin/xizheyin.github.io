@@ -62,7 +62,7 @@ The open source project I am contributing to including:
 ## Honor
 
 - 2024-2025 **Xiaomi Special Scholarship [小米特等奖学金]**  
-  *Awarded to only 10 students across the entire university.*
+  *Awarded to <font color='red'>only 10 students across the entire university</font>.*
 - 2024-2025 **Scholarships for Doctoral Students at Nanjing University [博士生学业奖学金]**
 - 2023-2024 **President's Special Scholarship for PhD Students [南京大学博士生校长特别奖学金]**
 - 2023-2024 **Scholarships for Doctoral Students at Nanjing University [博士生学业奖学金]**
