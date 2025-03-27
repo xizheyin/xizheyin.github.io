@@ -6,9 +6,28 @@ layout: page
 
 <!-- <img src="yxz.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Xizhe Yin (尹熙喆)**.
+**Xizhe Yin (尹熙喆)** - Ph.D. Researcher in Software Engineering
 
-I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing and program analysis for Rust programming language. I am the lead maintainer of the *[Crates-Pro](https://github.com/crates-pro)*, a project dedicated to enhancing the security of the Rust ecosystem. Our mission is to equip Rust developers with essential insights and recommendations on crate usage, ensuring that their projects remain both safe and efficient.
+I am a Ph.D. student in the [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm)
+at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm),
+working under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng.
+My research interests lie in Software Engineering,
+with a focus on developing innovative tools to improve software quality and reliability.
+Currently, my research centers around software supply chains for the Rust programming language.
+
+I serve as the lead maintainer of *[Crates-Pro](https://github.com/crates-pro)*,
+a project dedicated to enhancing the security and usability of software in the Rust ecosystem.
+
+I'm also an active contributor to several open-source projects. 
+I've contributed to enhancing compiler diagnostics, addressing bootstrap or ice issues,
+and implementing various improvements to make rustc more developer-friendly and approachable.
+The open source project I am contributing to including:
+
+- [crates-pro](https://github.com/crates-pro)
+- [rust-lang/rust](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Axizheyin+)
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide/pulls?q=is%3Apr+author%3Axizheyin+)
+- [rust-lang/rustc_codegen_c](https://github.com/rust-lang/rustc_codegen_c/pulls?q=is%3Apr+author%3Axizheyin+)
+- [facebook/buck2](https://github.com/facebook/buck2/pulls?q=is%3Apr+author%3Axizheyin+)
 <br>
 
 ## Education Background
@@ -20,10 +39,9 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 <br>
 
 ## Research Interests
-
-- Rust Programming Language
-- Software Analysis (Pointer Analysis)
 - Software Testing
+- Software Analysis
+- Software Supply Chain
 <br>
 
 ## Publications
