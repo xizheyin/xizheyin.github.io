@@ -15,12 +15,12 @@ My research interests lie in Software Engineering,
 with a focus on developing innovative tools to improve software quality and reliability.
 Currently, my research centers around software supply chains for the Rust programming language.
 
-I serve as the lead maintainer of *[Crates-Pro](https://github.com/crates-pro)*,
+I serve as the lead maintainer of **[Crates-Pro](https://github.com/crates-pro)**,
 a project dedicated to enhancing the security and usability of software in the Rust ecosystem.
 
 I'm also an active contributor to several open-source projects. 
-I've contributed to enhancing compiler diagnostics, addressing bootstrap or ice issues,
-and implementing [various improvements](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Axizheyin+) to make rustc more developer-friendly and approachable.
+I've [contributed to **rust-lang/rust**](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Axizheyin+) to enhancing compiler diagnostics, addressing bootstrap or ice issues,
+and implementing various improvements to make rustc more developer-friendly and approachable.
 The open source project I am contributing to including:
 
 - [crates-pro](https://github.com/crates-pro)
