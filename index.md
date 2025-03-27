@@ -9,9 +9,7 @@ layout: page
 Here is **Xizhe Yin (尹熙喆)**.
 
 I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), under the joint supervision of Prof. Baowen Xu and Dr. Yang Feng. My research interests lie in the field of Software Engineering, with a focus on developing innovative techniques and tools to improve software quality and reliability. Specifically, my current research work centers around software testing and program analysis for Rust programming language. I am the lead maintainer of the *[Crates-Pro](https://github.com/crates-pro)*, a project dedicated to enhancing the security of the Rust ecosystem. Our mission is to equip Rust developers with essential insights and recommendations on crate usage, ensuring that their projects remain both safe and efficient.
-
 <br>
-
 
 ## Education Background
 
@@ -21,17 +19,12 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 - Sep 2023 - Present: Ph.D. in Software Engineering, Nanjing University
 <br>
 
----
-
 ## Research Interests
 
 - Rust Programming Language
 - Software Analysis (Pointer Analysis)
 - Software Testing
-
 <br>
-
----
 
 ## Publications
 
@@ -40,9 +33,6 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
   The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024, **<font color='red'>CCF-A</font>**) 
 <br>
 
----
-
-
 ## Teaching Experience
 - Fall 2024: Compiler Principles, Teaching Assistant
 - Fall 2023: Compiler Principles, Teaching Assistant
@@ -50,9 +40,6 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 - Fall 2022: Compiler Principles, Teaching Assistant
 - Spring 2022: [Operating Systems](https://changanyyy.gitbook.io/oslab/), Teaching Assistant (Course ratings increased from 4.81 and 4.68 to 4.91.)
 <br>
-
-
----
 
 ## Honor
 
@@ -67,6 +54,28 @@ I am Xizhe Yin, a Ph.D. student in [School of Computer Science and Technology](h
 - 2020-2021 **National Scholarship for Students(3rd) [人民奖学金]**
 - 2019-2020 **National Scholarship for Students(2nd) [人民奖学金]**
 <br>
+
+
+
+## Tech Stack
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Buck2](https://img.shields.io/badge/-Buck2-4A154B?style=flat&logo=meta&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TuGraph](https://img.shields.io/badge/-TuGraph-5C2D91?style=flat&logo=graph&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+
 
 ---
 
