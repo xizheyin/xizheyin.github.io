@@ -25,6 +25,7 @@ The open source project I am contributing to including:
 
 - [crates-pro](https://github.com/crates-pro)
 - [rust-lang/rust](https://github.com/rust-lang/rust/)
+- [Rust-for-Linux](https://github.com/Rust-for-Linux/linux)
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide/)
 - [rust-lang/rustc_codegen_c](https://github.com/rust-lang/rustc_codegen_c/)
 - [facebook/buck2](https://github.com/facebook/buck2/)
