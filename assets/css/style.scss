@@ -1,0 +1,61 @@
+@import "{{ site.theme }}";
+
+// 确保内容填满可用空间
+.post-content {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+// 修复段落样式
+.post-content p {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1em;
+  text-align: justify; // 可选：文本两端对齐
+}
+
+// 修复标题样式
+.post-content h1, 
+.post-content h2, 
+.post-content h3, 
+.post-content h4, 
+.post-content h5, 
+.post-content h6 {
+  width: 100%;
+  max-width: 100%;
+}
+
+// 针对常见Jekyll主题的修复
+.wrapper, 
+.container, 
+.page-content, 
+article.post {
+  width: 100%;
+  max-width: 100%;
+}
+
+// 解决可能的浮动问题
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+// 对于某些主题可能需要以下设置
+.wrapper {
+  max-width: 90%;
+}
+
+// 隐藏主题自带的标题
+.page-heading, 
+h1.post-title:first-of-type,
+.post-header {
+  display: none !important;
+}
+
+// 或者，隐藏第二个标题（我们布局中的）
+article.post .post-header {
+  display: none !important;
+} 

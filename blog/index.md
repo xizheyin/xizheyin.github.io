@@ -1,20 +1,20 @@
 ---
 layout: page
-title: 博客
+title: blog
 permalink: /blog/
 ---
 
-# 我的博客文章
+## My blog
 
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
-      <h2>
+      <h3>
         <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </h2>
-      <p class="post-meta">{{ post.date | date: "%Y年%m月%d日" }}</p>
+      </h3>
+      <p class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
       <p>{{ post.excerpt }}</p>
-      <a href="{{ post.url | relative_url }}">阅读更多</a>
+      <a href="{{ post.url | relative_url }}">read more</a>
     </li>
   {% endfor %}
 </ul> 

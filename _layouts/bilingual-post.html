@@ -1,0 +1,141 @@
+---
+layout: default
+---
+
+<style>
+  /* 强制内容填满容器 */
+  .post-content, 
+  .post-content p, 
+  .post-content h1, 
+  .post-content h2, 
+  .post-content h3, 
+  .post-content h4, 
+  .post-content h5, 
+  .post-content h6,
+  .wrapper, 
+  .container,
+  article.post {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    box-sizing: border-box !important;
+  }
+  
+  /* 如果文本被分成了多列，禁用列布局 */
+  .post-content {
+    column-count: 1 !important;
+    column-gap: 0 !important;
+  }
+  
+  /* 隐藏主题的默认标题 */
+  .post-header .post-title {
+    display: none !important;
+  }
+  
+  /* 自定义标题区域样式 */
+  .custom-title-area {
+    margin-bottom: 30px;
+  }
+  .custom-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .custom-date {
+    color: #666;
+    font-size: 0.9em;
+  }
+</style>
+
+<div style="text-align: right; margin-bottom: 20px;">
+  <button id="langToggle" onclick="toggleLanguage()" style="padding: 5px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer;">中文</button>
+</div>
+
+<!-- 添加自定义标题区域 -->
+<div class="custom-title-area">
+  <h1 id="title-zh" class="custom-title" style="display: none;">{{ page.title }}</h1>
+  <h1 id="title-en" class="custom-title">{{ page.title_en }}</h1>
+  <div class="custom-date">{{ page.date | date: "%b %-d, %Y" }}</div>
+</div>
+
+<article class="post">
+  <div class="post-content">
+    <div id="chinese-content" style="display: none;">
+      {{ content | split: '<!-- english-content-start -->' | first }}
+    </div>
+    <div id="english-content">
+      {% if content contains '<!-- english-content-start -->' and content contains '<!-- english-content-end -->' %}
+        {{ content | split: '<!-- english-content-start -->' | last | split: '<!-- english-content-end -->' | first }}
+      {% endif %}
+    </div>
+  </div>
+</article>
+
+<script>
+// 初始化语言状态
+var currentLanguage = 'en';
+
+// 从URL获取语言参数
+function getLanguageFromURL() {
+  var urlParams = new URLSearchParams(window.location.search);
+  var langParam = urlParams.get('lang');
+  if (langParam === 'zh') {
+    return 'zh';
+  } else if (langParam === 'en') {
+    return 'en';
+  }
+  return 'en'; // 默认为英文
+}
+
+// 更新URL中的语言参数
+function updateURLLanguage(lang) {
+  var urlParams = new URLSearchParams(window.location.search);
+  urlParams.set('lang', lang);
+  var newURL = window.location.pathname + '?' + urlParams.toString();
+  history.replaceState(null, '', newURL);
+}
+
+// 设置语言显示
+function setLanguage(lang) {
+  var chineseContent = document.getElementById('chinese-content');
+  var englishContent = document.getElementById('english-content');
+  var titleZh = document.getElementById('title-zh');
+  var titleEn = document.getElementById('title-en');
+  var langToggle = document.getElementById('langToggle');
+  
+  if (lang === 'zh') {
+    // 设置为中文
+    chineseContent.style.display = 'block';
+    englishContent.style.display = 'none';
+    titleZh.style.display = 'block';
+    titleEn.style.display = 'none';
+    langToggle.innerText = 'English';
+    currentLanguage = 'zh';
+  } else {
+    // 设置为英文
+    chineseContent.style.display = 'none';
+    englishContent.style.display = 'block';
+    titleZh.style.display = 'none';
+    titleEn.style.display = 'block';
+    langToggle.innerText = '中文';
+    currentLanguage = 'en';
+  }
+}
+
+// 切换语言
+function toggleLanguage() {
+  var newLang = currentLanguage === 'en' ? 'zh' : 'en';
+  setLanguage(newLang);
+  updateURLLanguage(newLang);
+}
+
+// 页面加载时设置初始语言
+document.addEventListener('DOMContentLoaded', function() {
+  var initialLang = getLanguageFromURL();
+  setLanguage(initialLang);
+  updateURLLanguage(initialLang); // 确保URL反映当前语言
+});
+</script> 
