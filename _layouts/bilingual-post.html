@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 <style>
@@ -48,18 +48,18 @@ layout: default
     color: #666;
     font-size: 0.9em;
   }
+  
+  /* 确保主题原有的标题能够被切换 */
+  .headline-wrap h1, .headline-wrap h2 {
+    transition: display 0.3s;
+  }
 </style>
 
 <div style="text-align: right; margin-bottom: 20px;">
   <button id="langToggle" onclick="toggleLanguage()" style="padding: 5px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer;">English</button>
 </div>
 
-<!-- 添加自定义标题区域 -->
-<div class="custom-title-area">
-  <h1 id="title-zh" class="custom-title">{{ page.title }}</h1>
-  <h1 id="title-en" class="custom-title" style="display: none;">{{ page.title_en }}</h1>
-  <div class="custom-date">{{ page.date | date: "%b %-d, %Y" }}</div>
-</div>
+<!-- 不再添加自定义标题区域，而是利用post.html中的标题 -->
 
 <article class="post">
   <div class="post-content">
@@ -98,28 +98,25 @@ function updateURLLanguage(lang) {
   history.replaceState(null, '', newURL);
 }
 
-// 设置语言显示
+// 修改setLanguage函数以处理原始标题
 function setLanguage(lang) {
   var chineseContent = document.getElementById('chinese-content');
   var englishContent = document.getElementById('english-content');
-  var titleZh = document.getElementById('title-zh');
-  var titleEn = document.getElementById('title-en');
+  var headline = document.querySelector('.headline-wrap h1');
   var langToggle = document.getElementById('langToggle');
   
   if (lang === 'zh') {
     // 设置为中文
     chineseContent.style.display = 'block';
     englishContent.style.display = 'none';
-    titleZh.style.display = 'block';
-    titleEn.style.display = 'none';
+    headline.textContent = "{{ page.title }}";
     langToggle.innerText = 'English';
     currentLanguage = 'zh';
   } else {
     // 设置为英文
     chineseContent.style.display = 'none';
     englishContent.style.display = 'block';
-    titleZh.style.display = 'none';
-    titleEn.style.display = 'block';
+    headline.textContent = "{{ page.title_en }}";
     langToggle.innerText = '中文';
     currentLanguage = 'en';
   }
