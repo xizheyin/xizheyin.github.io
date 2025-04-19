@@ -1,0 +1,33 @@
+# Jekyll生成的站点
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby和Bundler相关
+.bundle/
+vendor/
+Gemfile.lock
+
+# 系统文件
+.DS_Store
+*.swp
+*~
+
+# 编辑器和IDE文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# 日志文件
+*.log
+
+# 临时文件
+tmp/
+.tmp/
+
+# 如果您使用npm或yarn
+node_modules/
+package-lock.json
+yarn.lock
