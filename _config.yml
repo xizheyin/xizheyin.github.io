@@ -33,6 +33,8 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: Blog
+    url: /blog/
   # - title: Resume
   #   url: /file/CV-HanlinCAI.pdf
   # - title: Publications
@@ -56,7 +58,7 @@ highlighter: rouge
 
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+# permalink:   /:categories/:title
 
 
 kramdown:
@@ -82,3 +84,6 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update in 2023/08/28 by Hanlin Cai.
+
+# 博客设置
+permalink: /blog/:year/:month/:day/:title/
