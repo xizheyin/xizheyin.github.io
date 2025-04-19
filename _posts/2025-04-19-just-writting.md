@@ -1,9 +1,9 @@
 ---
 layout: bilingual-post
-title: "科研与开源：我的Rust社区之旅与人生观转变"
-title_en: "Research and Open Source: My Journey in the Rust Community"
+title: "科研与开源：我的思维转变"
+title_en: "Research and Open Source: A shift in my thinking"
 date: 2025-04-19
-categories: [开源, 科研, 个人成长]
+categories: [personal growth]
 ---
 
 这是我的第一篇博客，想分享一下最近在学业和工作上的一些思考与感悟。
