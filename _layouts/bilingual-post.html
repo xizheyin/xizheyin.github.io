@@ -51,22 +51,22 @@ layout: default
 </style>
 
 <div style="text-align: right; margin-bottom: 20px;">
-  <button id="langToggle" onclick="toggleLanguage()" style="padding: 5px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer;">中文</button>
+  <button id="langToggle" onclick="toggleLanguage()" style="padding: 5px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer;">English</button>
 </div>
 
 <!-- 添加自定义标题区域 -->
 <div class="custom-title-area">
-  <h1 id="title-zh" class="custom-title" style="display: none;">{{ page.title }}</h1>
-  <h1 id="title-en" class="custom-title">{{ page.title_en }}</h1>
+  <h1 id="title-zh" class="custom-title">{{ page.title }}</h1>
+  <h1 id="title-en" class="custom-title" style="display: none;">{{ page.title_en }}</h1>
   <div class="custom-date">{{ page.date | date: "%b %-d, %Y" }}</div>
 </div>
 
 <article class="post">
   <div class="post-content">
-    <div id="chinese-content" style="display: none;">
+    <div id="chinese-content">
       {{ content | split: '<!-- english-content-start -->' | first }}
     </div>
-    <div id="english-content">
+    <div id="english-content" style="display: none;">
       {% if content contains '<!-- english-content-start -->' and content contains '<!-- english-content-end -->' %}
         {{ content | split: '<!-- english-content-start -->' | last | split: '<!-- english-content-end -->' | first }}
       {% endif %}
@@ -87,7 +87,7 @@ function getLanguageFromURL() {
   } else if (langParam === 'en') {
     return 'en';
   }
-  return 'en'; // 默认为英文
+  return 'zh'; // 默认为中文
 }
 
 // 更新URL中的语言参数
