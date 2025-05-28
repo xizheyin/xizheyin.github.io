@@ -26,7 +26,7 @@ I've [contributed to **rust-lang/rust**](https://github.com/rust-lang/rust/pulls
 - Adding performance warnings and clarifications
 - Making the compiler more robust and user-friendly
 
-My contributions have been merged into stable releases (1.87.0, 1.88.0, and 1.89.0), demonstrating a commitment to improving the Rust developer experience.
+My contributions have been/will be merged into stable releases (1.87.0, 1.88.0, and 1.89.0).
 
 I've also contributed to [**rust-lang/triagebot**](https://github.com/rust-lang/triagebot/pulls?q=is%3Apr+author%3Axizheyin+is%3Aclosed), the automated tooling for the Rust project, with several merged PRs including improvements to PR review automation, branch management, and GitHub integration features.
 
