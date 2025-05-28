@@ -19,12 +19,22 @@ I serve as the lead maintainer of **[Crates-Pro](https://github.com/crates-pro)*
 a project dedicated to enhancing the security and usability of software in the Rust ecosystem.
 
 I'm also an active contributor to several open-source projects. 
-I've [contributed to **rust-lang/rust**](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Axizheyin+) to enhancing compiler diagnostics, addressing bootstrap or ice issues,
-and implementing various improvements to make rustc more developer-friendly and approachable.
+I've [contributed to **rust-lang/rust**](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Axizheyin+) with over 40 merged PRs, focusing on:
+- Enhancing compiler diagnostics and error messages
+- Improving documentation for standard library components
+- Implementing better error recovery in the parser
+- Adding performance warnings and clarifications
+- Making the compiler more robust and user-friendly
+
+My contributions have been merged into stable releases (1.87.0, 1.88.0, and 1.89.0), demonstrating a commitment to improving the Rust developer experience.
+
+I've also contributed to [**rust-lang/triagebot**](https://github.com/rust-lang/triagebot/pulls?q=is%3Apr+author%3Axizheyin+is%3Aclosed), the automated tooling for the Rust project, with several merged PRs including improvements to PR review automation, branch management, and GitHub integration features.
+
 The open source project I am contributing to including:
 
 - [crates-pro](https://github.com/crates-pro)
 - [rust-lang/rust](https://github.com/rust-lang/rust/)
+- [rust-lang/triagebot](https://github.com/rust-lang/triagebot/)
 - [Rust-for-Linux](https://github.com/Rust-for-Linux/linux)
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide/)
 - [rust-lang/rustc_codegen_c](https://github.com/rust-lang/rustc_codegen_c/)
